@@ -1,0 +1,41 @@
+total 2558276
+-rw-rw-r-- 1 eliped eliped      6340 Mar  3 10:02 cbind_mod_auxfunc.py
+-rw-rw-r-- 1 eliped eliped     60054 Mar  3 10:02 cbind_mod_physic.py
+-rw-rw-r-- 1 eliped eliped    201312 Mar  3 11:33 CISSEMBEL_CBind4Tests.so
+-rw-rw-r-- 1 eliped eliped 587977983 Apr 25 09:48 CTRL2003_2008_PR_DM.nc
+-rw-rw-r-- 1 eliped eliped   2907132 Mar 15 09:53 CTRL2003_2008_PR_TM.nc
+-rw-rw-r-- 1 eliped eliped   7747128 Apr 25 09:51 CTRL2003_2008_PR_YM.nc
+-rw-rw-r-- 1 eliped eliped   8677974 May 12 17:08 Diagnostics; Precentages, temperature and precip occuring.ipynb
+-rw-rw-r-- 1 eliped eliped     20779 Apr 25 09:57 DM Precip with elevation G1 G2 G7.ipynb
+-rw-rw-r-- 1 eliped eliped         0 May 13 13:44 file_list.txt
+-rw-rw-r-- 1 eliped eliped   2905256 May  2 12:06 glmask_GL2.nc
+-rw-rw-r-- 1 eliped eliped   2905660 Apr 25 15:59 gl_mask.nc
+-rw-rw-r-- 1 eliped eliped 637689250 Apr 25 09:45 GT12003_2008_PR_DM.nc
+-rw-rw-r-- 1 eliped eliped   2907076 Mar 15 09:55 GT12003_2008_PR_TM.nc
+-rw-rw-r-- 1 eliped eliped   7747144 Apr 25 09:52 GT12003_2008_PR_YM.nc
+-rw-rw-r-- 1 eliped eliped   2906728 May  5 13:00 GT1_TAS_TM.nc
+-rw-rw-r-- 1 eliped eliped 625583577 Apr 25 09:46 GT22003_2008_PR_DM.nc
+-rw-rw-r-- 1 eliped eliped   2907076 Mar 15 09:54 GT22003_2008_PR_TM.nc
+-rw-rw-r-- 1 eliped eliped   7747144 Apr 25 09:52 GT22003_2008_PR_YM.nc
+-rw-rw-r-- 1 eliped eliped   2907076 Mar 15 09:54 GT52003_2008_PR_TM.nc
+-rw-rw-r-- 1 eliped eliped 623084033 Apr 25 09:46 GT72003_2008_PR_DM.nc
+-rw-rw-r-- 1 eliped eliped   2907076 Mar 15 09:54 GT72003_2008_PR_TM.nc
+-rw-rw-r-- 1 eliped eliped   7747144 Apr 25 09:52 GT72003_2008_PR_YM.nc
+-rw-rw-r-- 1 eliped eliped   2907076 Mar 15 09:55 GT82003_2008_PR_TM.nc
+-rw-rw-r-- 1 eliped eliped   8394803 May 13 10:11 Height correction with CISSEMBEL.ipynb
+-rw-rw-r-- 1 eliped eliped   2905336 Apr 25 15:55 land_greenland_mask.nc
+-rw-rw-r-- 1 eliped eliped    339860 May  2 11:58 Percentages .ipynb
+-rw-rw-r-- 1 eliped eliped     32038 May 13 12:36 plots_mod_auxfunc.py
+drwxrwxr-x 2 eliped eliped      4096 May 13 12:37 __pycache__
+-rw-rw-r-- 1 eliped eliped   7588414 May 13 13:43 Rescaling.ipynb
+-rw-rw-r-- 1 eliped eliped   2907132 May  3 10:23 TAS_CTRL.nc
+-rw-rw-r-- 1 eliped eliped    115638 Mar 15 11:21 testGT7_nonlinear.png.png
+-rw-rw-r-- 1 eliped eliped    117002 Mar 15 11:10 testGT7.png
+-rw-rw-r-- 1 eliped eliped   9022311 May 12 17:08 TM Precip GT1 GT2 GT7.ipynb
+-rw-rw-r-- 1 eliped eliped   8898695 May  2 11:42 TM Precip with elevation GT1 GT2 GT7.ipynb
+-rw-rw-r-- 1 eliped eliped   3873404 Mar 15 10:01 topo_glmask_GL2_CTRL.nc
+-rw-rw-r-- 1 eliped eliped   8720748 Mar 15 10:01 topo_GT1.nc
+-rw-rw-r-- 1 eliped eliped   8720748 Mar 15 10:01 topo_GT2.nc
+-rw-rw-r-- 1 eliped eliped   8720744 Mar 15 10:02 topo_GT7.nc
+-rw-rw-r-- 1 eliped eliped      3753 Mar  3 10:02 values_mod_param.py
+-rw-rw-r-- 1 eliped eliped   8448922 Apr 25 16:11 YM Precip with elevation GT1 GT2 GT7.ipynb
